@@ -1,0 +1,61 @@
+{
+  "name": "ABC #2943",
+  "symbol": "ABC",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://arweave.net/RuSGHrWGArDZwPGPU_vfMr2fq86PHTaQdwFRvZqhiwA",
+  "attributes": [
+ {
+      "trait_type": "background",
+      "value": "dark blue"
+    },
+    {
+      "trait_type": "special",
+      "value": "nothing"
+    },
+    {
+      "trait_type": "acc2",
+      "value": "nothing"
+    },
+    {
+      "trait_type": "larm",
+      "value": "yellowskin"
+    },
+    {
+      "trait_type": "rarm",
+      "value": "yellowskin"
+    },
+    {
+      "trait_type": "shirt",
+      "value": "purplesuit"
+    },
+    {
+      "trait_type": "head",
+      "value": "pinkskin"
+    },
+    {
+      "trait_type": "eye",
+      "value": "excitedeye"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "dimple"
+    },
+    {
+      "trait_type": "acc1",
+      "value": "samuraihair"
+    },
+    {
+      "trait_type": "base",
+      "value": "big rabbit"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
